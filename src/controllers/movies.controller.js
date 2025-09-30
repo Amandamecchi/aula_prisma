@@ -1,4 +1,4 @@
-import MovieModel from "../models/game.model.js";
+import MovieModel from "../models/movies.model.js";
 
 class MovieController {
   async findAll(req, res) {
